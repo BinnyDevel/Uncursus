@@ -9,7 +9,7 @@ A9-A13 Is Supported
  
 Credits :
 
-Me : Script To Patch Procursus Installtation For Unc0ver
+jayguar1206: Script To Patch Procursus Installtation For Unc0ver
 
 https://github.com/ProcursusTeam : For The Bootstrap
 
