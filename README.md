@@ -1,11 +1,11 @@
-# ~~Uncursus~~ EOL DO NOT USE
-## **THIS FORK WAS JUST MADE AS AN ARCHIVE**
+# Uncursus
+## **THIS FORK WAS JUST MADE AS A LEARNING EXPERIENCE**
 
-### **USE ODYSSEY/CHIMERA/TAURINE INSTEAD**
+### **USE ODYSSEY/CHIMERA/TAURINE INSTEAD IF YOU CAN**
 
 Uncursus : Procursus Bootstrap On Unc0ver Jailbreak
 
-A9-A13 Is Supported
+A9-A13 Is Supported A14 is untested
  
 Credits :
 
