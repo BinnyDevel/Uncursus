@@ -15,6 +15,8 @@ https://github.com/ProcursusTeam : For The Bootstrap
 
 https://github.com/coolstar : For The Procursus Deploy Script
 
+plzdonthaxme: updated script
+
 Thanks To:
 
 knuckles approver#1119 For All Test And The Name Of The Project
