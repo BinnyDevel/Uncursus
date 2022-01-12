@@ -37,5 +37,5 @@ Steps :
 
 6) Wait. Your Device Should Respring, Launch Sileo And Profit
 
-**NOTE: YOU SHOULD INSTALL SNAPBACK FROM https://midnightchips.me/ BEFORE RUNNING THIS AS IT IS THE ONLY WAY YOU CAN ROOTFS IF ANYTHING BREAKS**
+**NOTE: YOU SHOULD INSTALL SNAPBACK FROM https://repo.midnightchips.me/ BEFORE RUNNING THIS AS IT IS THE ONLY WAY YOU CAN ROOTFS IF ANYTHING BREAKS**
 Any Bug Report Will Be Appreciat ;) 
