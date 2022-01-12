@@ -1,4 +1,5 @@
 #!/bin/sh
+set -euxo pipefail
 if [ "$(uname)" = "Darwin" ]; then
 	if [ "$(uname -p)" = "arm" ] || [ "$(uname -p)" = "arm64" ]; then
 		echo "It's recommended that this script be ran on macOS/Linux with a non-bootstrapped iOS device running checkra1n attached."
